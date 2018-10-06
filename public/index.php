@@ -6,5 +6,4 @@
  * Time: 7:32 PM
  */
 
-echo 'test131313131';
-echo 'djnlsdngldngl';
+echo 'Hello World';
