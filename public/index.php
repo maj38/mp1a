@@ -23,8 +23,8 @@ class csv {
 
     static public function getRecords() {
 
-        $make = 'Lambo';
-        $model = 'Bling Wagon';
+        $make = 'Toyota';
+        $model = 'Camry';
         $car = AutomobileFactory::create($make, $model);
 
         $records[] = $car;
